@@ -301,3 +301,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.psm1
+src/AspNetCoreMVC/Properties/PublishProfiles/fsfsf-publish.ps1
